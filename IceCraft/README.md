@@ -1,0 +1,2 @@
+# IceCraft
+Wiki for IceCraft
