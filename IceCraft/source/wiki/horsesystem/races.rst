@@ -1,7 +1,15 @@
-Rassen
+Inhalt
 ******
 .. contents::
    :local:
 
-### Rassen
+Rassen
+######
 Das Pferdesystem beherbergt momentan folgende Rassen:
+
+- Friesen
+- Andalusier
+- Knabstuper
+- Haflinger
+- Mustang
+- Pintos

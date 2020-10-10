@@ -1,7 +1,24 @@
-Crafting Rezepte
-****************
+Items und Rezepte
+*****************
 .. contents::
    :local:
 
-### Crafting Rezepte
-Das Pferdesystem fügt folgende Craftingrezepte hinzu.
+Items
+################
+Das Pferdesystem fügt folgende Items hinzu.
+
+Apfelhafer
+----------
+
+.. image:: https://www.icecapa.de/image/g0rwTlwIyj.png
+
+Apfelhafer senkt die Todespunkte eines Pferdes um 1, sofern ein Pferd welche besitzt.
+Erstellt wird es durch einen Apfel, 3x Hafer und einer Schüssel in einer Werkbank.
+
+Hafer
+-----
+
+.. image: https://www.icecapa.de/image/onCW9DdlaO.gif
+
+Hafer wird hergestellt indem man Weizen in einen Dispenser tut und diesen betätigt.
+Es wird als Rezeptzutat für Apfelhafer verwendet.
