@@ -3,5 +3,5 @@ Crafting Rezepte
 .. contents::
    :local:
 
-###Crafting Rezepte
+### Crafting Rezepte
 Das Pferdesystem fügt folgende Craftingrezepte hinzu.
