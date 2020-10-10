@@ -18,7 +18,7 @@ Erstellt wird es durch einen Apfel, 3x Hafer und einer Schüssel in einer Werkba
 Hafer
 -----
 
-.. image: https://www.icecapa.de/image/onCW9DdlaO.gif
+.. image:: https://www.icecapa.de/image/onCW9DdlaO.gif
 
 Hafer wird hergestellt indem man Weizen in einen Dispenser tut und diesen betätigt.
 Es wird als Rezeptzutat für Apfelhafer verwendet.
