@@ -3,8 +3,9 @@ Die Erste Aufgabe
 .. contents::
    :local:
 
-#########
 Der Spawn
+#########
+
 
 .. image:: https://wiki.icecapa.de/wp-content/uploads/2020/09/2020-09-29_18.56.26-1536x864.png
 
