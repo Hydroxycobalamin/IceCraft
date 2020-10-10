@@ -1,6 +1,6 @@
 Rassen
 .. contents::
-    :local:
+   :local:
 
 ###Rassen
 Das Pferdesystem beherbergt momentan folgende Rassen:

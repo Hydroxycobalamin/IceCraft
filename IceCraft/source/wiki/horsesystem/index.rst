@@ -5,3 +5,4 @@ Das Pferdesystem
    :titlesonly:
 
    crafting.rst
+   races.rst
