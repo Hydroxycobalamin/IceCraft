@@ -9,12 +9,12 @@ Der Spawn
 
 .. image:: https://www.icecapa.de/wp-content/uploads/2020/09/2020-09-29_18.56.26-1536x864.png
 
-Am Anfang spawnst du hier in deinem Spawnhaus.
-Deine erster Schritt sollte es sein, zum Barkeeper zu laufen um dir bei ihm ein Tavernenzimmer zu mieten.
+Am Anfang spawnst du im Spawnhaus.
+Dein erster Schritt sollte es sein, zum Barkeeper zu laufen um dir bei ihm ein Tavernenzimmer zu mieten.
 
 .. image:: https://www.icecapa.de/wp-content/uploads/2020/09/2020-09-29_18.56.32-1536x864.png
 
-Die Taverne ist das große Gebäude mit dem Riesigen Kartoffel- und Karottenfeld.
+Die Taverne ist das große Gebäude mit dem riesigen Kartoffel- und Karottenfeld.
 
 .. image:: https://www.icecapa.de/wp-content/uploads/2020/09/2020-09-29_18.58.20-1536x864.png
 
@@ -26,12 +26,12 @@ In diesem Beispiel erhaltst du die Auswahl "Nein" und "Ja". Mit einem Klick auf 
 .. image:: https://www.icecapa.de/wp-content/uploads/2020/09/O5WayMBGqU.png
 
 Ist das Zimmer gemietet, kannst du zu der Kiste in deinem Zimmer laufen. Dein Zimmer befindet sich in der oberen Etage, erreichbar über die Treppe hinter dem Barkeeper.
-Einfach geradezu wenn du die Treppe betreten hast.
+Nachdem du mit der Treppe das obere Stockwerk erreicht hast, befindet sich dein Zimmer genau vor dir.
 
 .. image:: https://www.icecapa.de/wp-content/uploads/2020/10/2020-10-02_21.45.32-768x407.png
 
 Dein Startequipment besteht aus Essen, Werkzeug und einer Goldschaufel.
-Mit der Goldschaufel kannst du dein Startgrundstück claimen. Allerdings solltest du dich erst auf dem Weg zur Farmwelt aufmachen und etwas Geld verdienen. Denn am Anfang hast du noch nicht so viele Claimblöcke. Du erhälst sie bis zu einem Wert von 1500 automatisch, durch Online sein.
+Mit der Goldschaufel kannst du dein Startgrundstück claimen. Allerdings solltest du dich erst auf den Weg zur Farmwelt machen und etwas Geld verdienen. Denn am Anfang hast du noch nicht so viele Claimblöcke. Du erhälst sie bis zu einem Wert von 1500 automatisch, durch Online sein.
 
 .. image:: https://www.icecapa.de/wp-content/uploads/2020/10/2020-10-02_21.45.32-768x407.png
 
