@@ -13,7 +13,11 @@ Apfelhafer
 .. image:: https://image.icecapa.de/g0rwTlwIyj.png
 
 Apfelhafer senkt die Todespunkte eines Pferdes um 1, sofern ein Pferd welche besitzt.
-Erstellt wird es durch einen Apfel, 3x Hafer und einer Schüssel in einer Werkbank.
+Folgende Items werden für die Herstellung benötigt:
+
+- 1x Apfel
+- 3x Hafer
+- 1x Schüssel 
 
 Hafer
 -----
@@ -29,11 +33,11 @@ Bürstballen
 .. image:: https://image.icecapa.de/1c6x00hAFj.png
 
 Bürstballen sind bei dem Pferdewirt für jeweils 25 SPI erhältlich und haben eine Haltbarkeit von 128.
-Sie werden dafür verwendet das Pferd zu bürsten und die Pflege-Punkte des Pferdes zu erhöhen.
+Sie werden zum Bürsten der Pferde verwendet, um die Pflege-Punkte des Pferdes zu erhöhen.
 
 Schwamm
 -------
 
-.. image :: https://image.icecapa.de/iLErUvIZRt.png
+.. image:: https://image.icecapa.de/iLErUvIZRt.png
 
 Ein Schwamm wird dazu verwendet das Pferd zu waschen. Er ist für 10 SPI bei dem Pferdewirt erhältlich und hat eine Haltbarkeit von 32.

@@ -36,17 +36,17 @@ Pferde können derzeit mit Karotten, Äpfeln und Melonenscheiben gefüttert werd
 Tränken
 -------
 
-Das Pferd kann mit einem Wassereimer getränkt werden.
+Ein Pferd kann mit einem Wassereimer getränkt werden.
 
 Waschen
 -------
 
-Mit einem Schwamm kann das Pferd einmal in der Stunde gewaschen werden.
+Mit einem Schwamm kann ein Pferd einmal in der Stunde gewaschen werden.
 
 Bürsten
 -------
 
-Mit einem Bürstballen kann das Pferd alle 15 Minuten gebürstet werden.
+Mit einem Bürstballen kann ein Pferd alle 15 Minuten gebürstet werden.
 
 Todespunkte
 -----------
