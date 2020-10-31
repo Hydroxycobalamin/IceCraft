@@ -11,3 +11,4 @@ Willkommen auf dem IceCraft Wiki
    
    wiki/beginning/index.rst
    wiki/horsesystem/index.rst
+   wiki/homesystem/index.rst
